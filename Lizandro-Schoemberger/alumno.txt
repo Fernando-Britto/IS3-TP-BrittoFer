@@ -1,4 +1,0 @@
-Nombre: Lisandro
-Apellido: Schoemberger
-DNI: 46834286
-
